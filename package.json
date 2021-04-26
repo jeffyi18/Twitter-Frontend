@@ -1,0 +1,17 @@
+{
+  "name": "a09",
+  "version": "1.0.0",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "browser-sync": "^2.26.14",
+    "bulma": "^0.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
